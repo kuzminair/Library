@@ -1,11 +1,11 @@
 #pragma once
-#ifndef UI_library_H
-#define UI_library_H
+#ifndef Model_library_H
+#define Model_library_H
 #include <vector>
 #include <iostream>
 #include <ctime>
 
-namespace UI_library {
+namespace Model_library {
 
 	struct Reader
 	{
@@ -44,7 +44,7 @@ namespace UI_library {
 		int termIssue;
 	};
 
-	
+
 }
 
 #endif // !HEADER_H#pragma once
